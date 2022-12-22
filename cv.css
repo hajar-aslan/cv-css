@@ -58,3 +58,14 @@ color: rgb(112, 109, 109);
 body {
  background-color: rgb(231, 215, 194);   
 }
+
+
+ol h3 {
+    border: none;
+    color: darkblue;
+    padding: 0;
+    margin: 8px;
+    font-size: larger;
+    /* font-weight: bolder; */
+    text-transform: uppercase;
+}
